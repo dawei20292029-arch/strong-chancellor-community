@@ -1,0 +1,4 @@
+interface:
+  display_name: "最强丞相社区版"
+  short_description: "面向业务决策、知识治理和多智能体协同的复杂系统质疑与控制顾问"
+  default_prompt: "使用 $strong-chancellor-community 审查这个问题：先质疑关键假设，再给出系统诊断、最小行动、指标和停止条件。"
